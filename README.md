@@ -1,3 +1,3 @@
 # Hi, I'm Matsvei 👋
 
-I code
+Planning to release my first native iOS app in 2023!
