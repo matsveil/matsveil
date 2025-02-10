@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔒 I'm working on my app LockedIn<br>💡I specialize in mobile development<br>🌱 I'm learning Kotlin<br>📚 I'm a junior at Rutgers University<br>
+🔒 I'm working on my app LockedIn<br>💡I specialize in mobile development<br>🌱 Building for the Swift Student Challenge<br>📚 I'm a junior at Rutgers University<br>
 
 
 ## 🌐 Socials:
