@@ -1,4 +1,4 @@
-### 👋 Nice to see you here, I'm Matsvei! 
+## 👋 Nice to see you here, I'm Matsvei! 
 I'm a Software Engineer and an Indie Developer. I build beautiful solutions to everyday problems. 
 
 ### 📱 Apps I made
