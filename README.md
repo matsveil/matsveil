@@ -22,3 +22,4 @@ I'm a Software Engineer and an Indie Developer. I build beautiful solutions to e
 - Cursor
 - Claude Code
 - Codex
+- Figma
