@@ -5,13 +5,13 @@ Mobile engineer and indie developer. I build iOS apps and ship them to real user
 ---
 
 ### 📱 Shipped apps
-- [LockedIn](https://matsvei.com/lockedin) — screen time productivity app, live on the App Store
-- [BradsDeals](https://bradsdeal.com) — shipped two features to 5 million users as a mobile intern
+- [LockedIn](https://matsvei.com/lockedin): screen time productivity app, live on the App Store
+- [BradsDeals](https://bradsdeal.com): shipped two features to 5 million users as a mobile intern
 
 ### 🛠️ Projects
-- [Photos](https://github.com/matsveil/photos09) — cross-platform photo management app built in Java and JavaFX (MVC, serialization, search)
-- [Photos Android](https://github.com/matsveil/photos09-android) - Android port of the Photos app built with Java and Android Studio
-- [BetterSwiftUITextEditor](https://github.com/matsveil/better-swiftui-texteditor) — open source SwiftUI TextEditor wrapper with extended functionality
+- [Photos](https://github.com/matsveil/photos09): cross-platform photo management app built in Java and JavaFX (MVC, serialization, search)
+- [Photos Android](https://github.com/matsveil/photos09-android): Android port of the Photos app built with Java and Android Studio
+- [BetterSwiftUITextEditor](https://github.com/matsveil/better-swiftui-texteditor): open source SwiftUI TextEditor wrapper with extended functionality
 
 ### 💪 Skills
 - Swift, SwiftUI, UIKit
