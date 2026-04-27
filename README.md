@@ -1,25 +1,27 @@
-## 👋 Nice to see you here, I'm Matsvei! 
-I'm a Software Engineer and an Indie Developer. I build beautiful solutions to everyday problems. 
+## 👋 Hi, I'm Matsvei
 
-### 📱 Apps I made
-- [LockedIn](https://matsvei.com/lockedin): screen time control productivity app on App Store
-- [Photos](https://github.com/matsveil/photos/tree/main): cross-platform Java and JavaFX photos app
+Mobile engineer and indie developer. I build iOS apps and ship them to real users, and I am expanding into Android development.
 
-### 📦 Packaged that I've built
-- [BetterSwiftUITextEditor](https://github.com/matsveil/better-swiftui-texteditor): a wrapper for native SwiftUI TextEditor with more functionality
+---
 
-### 📫 How you can reach me
+### 📱 Shipped apps
+- [LockedIn](https://matsvei.com/lockedin) — screen time productivity app, live on the App Store
+- [BradsDeals](https://bradsdeal.com) — shipped two features to 5 million users as a mobile intern
+
+### 🛠️ Projects
+- [Photos](https://github.com/matsveil/photos/tree/main) — cross-platform photo management app built in Java and JavaFX (MVC, serialization, search)
+- [BetterSwiftUITextEditor](https://github.com/matsveil/better-swiftui-texteditor) — open source SwiftUI TextEditor wrapper with extended functionality
+
+### 💪 Skills
+- Swift, SwiftUI, UIKit
+- Java
+- Data structures and algorithms
+
+### 🔧 Tools
+- Xcode, Android Studio
+- Figma
+- Cursor, Claude Code
+
+### 📫 Reach me
 - [LinkedIn](https://www.linkedin.com/in/matsveil/)
 - [Email](mailto:hello@matsvei.com)
-
-### 💪 Some of my skills
-- Swift
-- Java
-- SwiftUI
-
-### 🛠️ Tools that I use
-- Xcode
-- Cursor
-- Claude Code
-- Codex
-- Figma
