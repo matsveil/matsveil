@@ -10,18 +10,15 @@ I'm a Software Engineer and an Indie Developer. I build beautiful solutions to e
 
 ### 📫 How you can reach me
 - [LinkedIn](https://www.linkedin.com/in/matsveil/)
-- [Twitter](https://x.com/MatsveiL)
 - [Email](mailto:hello@matsvei.com)
 
 ### 💪 Some of my skills
-- AI
 - Swift
-- Python
+- Java
 - SwiftUI
-- UIKit
 
 ### 🛠️ Tools that I use
 - Xcode
-- Figma
-- Firebase
 - Cursor
+- Claude Code
+- Codex
